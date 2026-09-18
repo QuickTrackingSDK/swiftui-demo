@@ -6,7 +6,7 @@ target 'swift_ui_demo' do
   use_frameworks!
 
   # Pods for swift_ui_demo
-#  pod 'QTCommon', '1.10.1'
-#  pod 'QTCommonLog', '1.0.2'
+  pod 'QTCommon', '1.10.1'
+  pod 'QTCommonLog', '1.0.2'
 
 end
