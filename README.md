@@ -24,6 +24,4 @@ open swift_ui_demo.xcworkspace
 | `ScenePhaseDemo.swift` | 前后台监听（active / inactive / background） |
 | `EffectiveVisibilityModifier.swift` | 组合出「真正可见」的封装，可直接拷走用 |
 
-## License
-MIT
-# swiftui-demo
+
