@@ -11,9 +11,10 @@ SwiftUI 视图生命周期 & 前后台状态（scenePhase）示例工程。
 
 ## 运行
 ```bash
-git clone https://github.com/rw02511911/swiftui-demo.git
+git clone https://github.com/QuickTrackingSDK/swiftui-demo.git
 cd swiftui-demo
-open SwiftUIDemo.xcodeproj
+pod install
+open swift_ui_demo.xcworkspace
 ```
 
 ## 目录
